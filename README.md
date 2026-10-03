@@ -5,15 +5,11 @@ The objective of this project is to leverage business intelligence and data anal
 
 ---
 
-## 📸 Dashboard Previews
-
 ### 1. Super Store Sales Performance Dashboard
-![Sales Dashboard]((https://drive.google.com/file/d/1km-bDAwnfxwCZBMHfvHfDyGGFWubmqDj/view?usp=drive_link))
+![Sales Dashboard](https://lh3.googleusercontent.com/d/1km-bDAwnfxwCZBMHfvHfDyGGFWubmqDj)
 
 ### 2. 15-Day Time Series Sales Forecasting & State Trends
-![Sales Forecast Dashboard](https://drive.google.com/file/d/1a3Sq-r1XGsmR84t1rCzV7kuboDEOyyZp/view?usp=drive_link)
-
----
+![Sales Forecast Dashboard](https://lh3.googleusercontent.com/d/1a3Sq-r1XGsmR84t1rCzV7kuboDEOyyZp)
 
 ## 🎯 Key Objectives
 - **Dashboard Creation**: Design an intuitive, interactive Power BI report with dynamic slicers (Region, Category, Segment) to explore data across granular dimensions[cite: 2, 4].
