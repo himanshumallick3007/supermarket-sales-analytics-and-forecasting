@@ -8,10 +8,10 @@ The objective of this project is to leverage business intelligence and data anal
 ## 📸 Dashboard Previews
 
 ### 1. Super Store Sales Performance Dashboard
-![Sales Dashboard](sales_dashboard.png)
+![Sales Dashboard]((https://drive.google.com/file/d/1km-bDAwnfxwCZBMHfvHfDyGGFWubmqDj/view?usp=drive_link))
 
 ### 2. 15-Day Time Series Sales Forecasting & State Trends
-![Sales Forecast Dashboard](sales_forecast_dashboard.png)
+![Sales Forecast Dashboard](https://drive.google.com/file/d/1a3Sq-r1XGsmR84t1rCzV7kuboDEOyyZp/view?usp=drive_link)
 
 ---
 
